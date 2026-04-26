@@ -1,0 +1,495 @@
+{
+  "High": {
+    "meta": {
+      "label": "High",
+      "session": 14,
+      "ep": 18,
+      "utterances": 12,
+      "reg_density": 1.0,
+      "TA_sum": 0,
+      "MC_sum": 12,
+      "RA_sum": 0
+    },
+    "utterances": [
+      {
+        "speaker": "Daniel",
+        "content": " So I guess you're supposed to relate the features to the type of dimension.  But I can't remember how to open this one.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 1,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Susan",
+        "content": "Which one?",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Daniel",
+        "content": " The one they suggest.  Yeah, this paper.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Susan",
+        "content": " This paper?",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Daniel",
+        "content": " Yeah.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Susan",
+        "content": "So you can't open it?",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Daniel",
+        "content": " I can't, I tried to open it.  Like...",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Susan",
+        "content": " Okay, okay, let me see.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Susan",
+        "content": " Okay.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Daniel",
+        "content": " It gives the abstract, but it doesn't give you the full answer.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Susan",
+        "content": " It should be []. Sign in to your institution.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Daniel",
+        "content": " I did, but I didn't give it a go.  I tried to do it but it didn't make it.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      }
+    ]
+  },
+  "Low": {
+    "meta": {
+      "label": "Low",
+      "session": 17,
+      "ep": 38,
+      "utterances": 16,
+      "reg_density": 0.0,
+      "TA_sum": 0,
+      "MC_sum": 0,
+      "RA_sum": 0
+    },
+    "utterances": [
+      {
+        "speaker": "Daniel",
+        "content": " What do you think that in terms of  value, high value, intrusiveness,  low intrusiveness?",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "James",
+        "content": " Actually,  I think we need to be more  you know, actually  I think we need to explain  the duration in more detail  because  the duration we are looking for is like  for example,  the video is quite long  and the students actually  may not be concentrated always  like the concentration cannot  last for  a long period of time. For example,  like if the video is quite long  like for an hour,  then I'm sure  when you are watching video  at home or online,  you will be distracted by other things  during the  this hour.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Anthony",
+        "content": " So that's why we're going to need the multimodal  data, so that is one of it,  but the other one I think we can also look at  the gaze, the eye gaze.  How long is the gaze?",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "James",
+        "content": " Yeah, so like the  neutral gaze.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Anthony",
+        "content": " I think we can copy from the data.  I don't know where is it.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 1,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "James",
+        "content": " How can  does that mean the students  are required to turn on  their video?",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Susan",
+        "content": "The camera.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "James",
+        "content": " The cameras while having the.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Anthony",
+        "content": " Because I was  discussing with <person>  in terms of LMS whether that is possible  and <person> said yes.  With some embedded tools.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Daniel",
+        "content": " For our design case,  are we measuring that sort of stuff  from the students?  I thought that we were measuring from teachers.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "James",
+        "content": " Yeah, from teachers.  Oh yeah.  We're actually going in the wrong direction.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Daniel",
+        "content": " Unless you did  like  number of  downloads, or like number  of clicks.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Anthony",
+        "content": " We want to  improve the learning outcome,  right? We want to measure this from  the learners in order that we know which  materials are the best.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "James",
+        "content": " Actually, we have to  follow like the  whether their video is attractive.  The material is interesting.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Susan",
+        "content": " So I mean, in the  correct direction.  Because it's like we're not really measuring the teacher  as such, but the  feedback from the student will go back  to the teacher, whether the teacher  would understand that the material  that they create, the way they teach  is effective  to the student.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Daniel",
+        "content": " Okay.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      }
+    ]
+  },
+  "Mixed": {
+    "meta": {
+      "label": "Mixed",
+      "session": 1,
+      "ep": 15,
+      "utterances": 13,
+      "reg_density": 0.769,
+      "TA_sum": 0,
+      "MC_sum": 10,
+      "RA_sum": 0
+    },
+    "utterances": [
+      {
+        "speaker": "Lisa",
+        "content": " So what are the main challenges our group wants to solve?",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Lisa",
+        "content": " So what will our group just want to solve the actual challenge?  So which challenge you want to finally decide to choose?  Like the whole project along this term?",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Karen",
+        "content": " We need to decide along this term?",
+        "C": 0,
+        "E": 0,
+        "M": 1,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Lisa",
+        "content": " In week 1 we need to decide which challenge, then in this term we need to solve this challenge.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Karen",
+        "content": " It's a big decision. I think we need just more time.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Brian",
+        "content": " I want to ask everybody what they're doing.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Brian",
+        "content": " Because now I've seen like this example.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Brian",
+        "content": " There's an example here.  And I'm gonna show you.  For example, these people chose formal education, higher education, hybrid education,  and about learning design, context, and learning tasks.  Group of three to five students  working on a project-based learning.  What's the challenge?  It's a multidisciplinary course  in which students came from different backgrounds  which may rise a challenge for them  to effectively collaborate.  Moreover, there are also not enough teachers  or assistants to help them and assist them  in every step of the collaborative process.  So I think we have the situation  but if you don't have the challenge, like a problem.  So what's the problem in teaching  like kindergarten?  Maybe you would have a better insight  from that perspective than you're doing that.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Lisa",
+        "content": " Are you guys decided to do the kindergarten?",
+        "C": 0,
+        "E": 0,
+        "M": 1,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Brian",
+        "content": " We also talked about primary school.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Lisa",
+        "content": " Not really.  Like kindergarten or primary.",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      },
+      {
+        "speaker": "Christopher",
+        "content": " but what was the challenge for the kids?",
+        "C": 1,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 0,
+        "RA": 0
+      },
+      {
+        "speaker": "Christopher",
+        "content": " or maybe everyone can come up with  or can decide which they want to challenge  and then we both say  just a specific idea",
+        "C": 0,
+        "E": 0,
+        "M": 0,
+        "T": 0,
+        "TA": 0.0,
+        "MC": 1,
+        "RA": 0
+      }
+    ]
+  }
+}

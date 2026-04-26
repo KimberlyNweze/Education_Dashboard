@@ -1,0 +1,17 @@
+{
+  "High": {
+    "selected_visualization": "Timeline",
+    "reason": "The episode has a high regulation rate (1.0) and no challenge rate, making the Timeline visualization the most suitable to show whether regulation was sustained over time. The episode's duration is relatively short (78s), but the high regulation rate justifies the use of the Timeline.",
+    "teacher_explanation": "This visualization will help you see how the group's discussion unfolded over time, with a focus on how they regulated their conversation. Since the group had a high level of regulation throughout the discussion, this will show you how they maintained that level. Consider using this insight to encourage the group to build on their regulatory strategies in future discussions."
+  },
+  "Low": {
+    "selected_visualization": "Network Graph",
+    "reason": "The episode has 4 speakers and 16 turns, meeting the criteria for a Network Graph, which can reveal the structure of who responds to whom. The number of speakers and turns suggests a complex interaction that can be effectively visualized with a Network Graph.",
+    "teacher_explanation": "This visualization will help you see how the students interact with each other during the discussion. By looking at who responds to whom, you can identify patterns of engagement and leadership within the group. Consider using this insight to encourage more balanced participation by prompting quieter students to contribute to the conversation."
+  },
+  "Mixed": {
+    "selected_visualization": "Stacked Bar",
+    "reason": "This visualization was selected because both challenge_rate (0.231) and regulation_rate (0.769) are greater than 0.1, indicating co-occurring challenge and regulation, and the episode has at least 6 turns (13 turns) worth of data. This meets the criteria for the Stacked Bar visualization.",
+    "teacher_explanation": "The Stacked Bar visualization will show how the balance of challenges and regulation shifts throughout the group discussion. By examining this visualization, you'll see how students are engaging with each other and the topic, and where they might need more support. Consider using this insight to adjust your facilitation strategy and encourage more balanced participation among students."
+  }
+}

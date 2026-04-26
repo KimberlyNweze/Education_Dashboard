@@ -1,0 +1,122 @@
+[
+  {
+    "viz": "Timeline",
+    "session": 22,
+    "ep": 20,
+    "rationale": "reg=1.00, chal=0.00, gini=0.48, dur=136s"
+  },
+  {
+    "viz": "Timeline",
+    "session": 15,
+    "ep": 5,
+    "rationale": "reg=0.95, chal=0.00, gini=0.43, dur=196s"
+  },
+  {
+    "viz": "Timeline",
+    "session": 11,
+    "ep": 15,
+    "rationale": "reg=0.83, chal=0.00, gini=0.20, dur=141s"
+  },
+  {
+    "viz": "Timeline",
+    "session": 22,
+    "ep": 2,
+    "rationale": "reg=0.83, chal=0.00, gini=0.45, dur=128s"
+  },
+  {
+    "viz": "Participation Chart",
+    "session": 8,
+    "ep": 23,
+    "rationale": "gini=0.605, teacher present, reg=0.95"
+  },
+  {
+    "viz": "Participation Chart",
+    "session": 15,
+    "ep": 6,
+    "rationale": "gini=0.600 (boundary), teacher present, 60 turns"
+  },
+  {
+    "viz": "Participation Chart",
+    "session": 9,
+    "ep": 17,
+    "rationale": "gini=0.594 (BORDERLINE below 0.6), teacher present"
+  },
+  {
+    "viz": "Participation Chart",
+    "session": 17,
+    "ep": 4,
+    "rationale": "gini=0.618, teacher present, chal=0.11 borderline"
+  },
+  {
+    "viz": "Stacked Bar",
+    "session": 22,
+    "ep": 31,
+    "rationale": "chal=0.57, reg=0.43 \u2014 challenge dominant"
+  },
+  {
+    "viz": "Stacked Bar",
+    "session": 1,
+    "ep": 8,
+    "rationale": "chal=0.40, reg=0.50 \u2014 balanced"
+  },
+  {
+    "viz": "Stacked Bar",
+    "session": 16,
+    "ep": 32,
+    "rationale": "chal=0.39, reg=0.62 \u2014 regulation dominant"
+  },
+  {
+    "viz": "Stacked Bar",
+    "session": 5,
+    "ep": 7,
+    "rationale": "chal=0.40, reg=0.50 \u2014 different session"
+  },
+  {
+    "viz": "Network Graph",
+    "session": 13,
+    "ep": 38,
+    "rationale": "3 speakers, 8 turns, gini=0.20, reg=0 chal=0"
+  },
+  {
+    "viz": "Network Graph",
+    "session": 16,
+    "ep": 17,
+    "rationale": "5 speakers, 13 turns, gini=0.21"
+  },
+  {
+    "viz": "Network Graph",
+    "session": 9,
+    "ep": 6,
+    "rationale": "3 speakers, 12 turns, gini=0.17, BORDERLINE reg=0.67"
+  },
+  {
+    "viz": "Network Graph",
+    "session": 22,
+    "ep": 9,
+    "rationale": "4 speakers, 28 turns, gini=0.20, BORDERLINE reg=0.68"
+  },
+  {
+    "viz": "Heatmap",
+    "session": 22,
+    "ep": 32,
+    "rationale": "6 speakers, gini=0.42 \u2014 most diverse"
+  },
+  {
+    "viz": "Heatmap",
+    "session": 5,
+    "ep": 13,
+    "rationale": "5 speakers, gini=0.33, 47 turns"
+  },
+  {
+    "viz": "Heatmap",
+    "session": 14,
+    "ep": 26,
+    "rationale": "5 speakers, gini=0.55 \u2014 BORDERLINE near participation"
+  },
+  {
+    "viz": "Heatmap",
+    "session": 23,
+    "ep": 11,
+    "rationale": "5 speakers, gini=0.40, 83 turns \u2014 largest"
+  }
+]
